@@ -60,7 +60,7 @@ layout: true
   
 <div class="my-footer">
 <span>
-<a href="https://retaoliveira.github.io/places" target="_blank">https://retaoliveira.github.io/places</a>
+<a href="https://places.education" target="_blank">https://places.education</a>
 </span>
 </div> 
 
