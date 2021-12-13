@@ -235,9 +235,66 @@ class: middle, inverse
 ]
 
 ---
+
+# Logísticos
+Fator	|Autores
+--------|---------
+	Capacidade dos veículos|	Cherrett et al. (2012); Moreira (2012)
+	Distância de entrega|	Anand et al. (2012)
+	Frequência de entregas|	Cherrett et al. (2012).
+	Número de viagens	|Allen et al. (2012); Moreira (2012)
+	Roteirização|	Anand et al. (2012); Russo e Comi (2010)
+	Tamanho dos veículos	|Browne et al. (2005)
+	Tempo para carga e descarga|	Allen et al. (2000); Browne et al. (2005)
+	Veículos Alternativos|	Dias et al. (2020); Giuliano et al. (2013)
+
+---
+# Regulatórios
+Fator	|Autores
+--------|---------
+Entrega noturna|	Dias et al. (2018); Dias et al. (2020); Furquim et Al. (2020)
+	Restrições|	Bontempo et al. (2014); Dias et al. (2018); Muñuzuri et al. (2005); Russo & Comi (2010)
+	Condições das Vias	|Dias et al. (2018); Furquim et al. (2020)
+	Corredores|	Rodrigue (2004); Russo e Comi (2010)
+	Sinalização	|Dias et al. (2018); Furquim et al. (2020)
+
+---
+# Ambientais
+
+Fator	|Autores
+--------|---------
+Emissões|	Cravioto et al. (2013); Ewbank et al. (2020)
+Ruídos| Giuliano et al. (2013); Gonzalez e Morana (2010)
+Visual|	De Vasconcellos (2005); Rao et al. (2015)
+
+---
+
+# Risco	
+
+Fator	|Autores
+--------|---------
+Acidentes de trânsito|	De Vasconcellos (1995); Ewbank et al. (2020); Ferreira e Couto (2013)
+	Roubo de carga	|Ewbank et al. (2020); Guerin et al. (2021); Justus et al. (2012)
+Congestionamento	|Ewbank et al. (2020); Yuan et al. (2014)
+
+
+---
+---
 class: middle, inverse
 
 # O que tem sido feito?
+
+
+---
+
+# Soluções
+
+- Veículos
+- Infraestrutura
+- Regulação e fiscalização
+- Operação 
+- Informação
+
 
 ---
 
@@ -627,12 +684,14 @@ class: center, middle
 
 ## Atividades para a semana
 
-- Fechar atividades até Estudos Autônomos 3
+- Estudos autônomos 1, 2 e 3
 - Visualizar documentos (vídeos e links) nesta apresentação
+- Responder no [Padlet](https://padlet.com/renataoliveira/e2wjcp8rmq1oqv0z)
+
 
 
 .large[
 .center[
-**SEMANA QUE VEM TEMOS ENCONTROS SEGUNDA E QUARTA!**
+**SEMANA QUE VEM TEMOS ENCONTRO NA SEGUNDA!**
 ]
 ]
